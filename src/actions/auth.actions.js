@@ -31,7 +31,7 @@
                                   isOnline: true
                               })
                               .then(() => {
-                                  //succeful
+                                  //successful
                                   const loggedInUser = {
                                       firstName: user.firstName,
                                       lastName: user.lastName,
